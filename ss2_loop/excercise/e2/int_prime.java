@@ -1,4 +1,4 @@
-package _2_loop.excercise.e2;
+package ss2_loop.excercise.e2;
 
 public class int_prime {
     public static void main(String[] args) {

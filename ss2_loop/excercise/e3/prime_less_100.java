@@ -1,4 +1,4 @@
-package _2_loop.excercise.e3;
+package ss2_loop.excercise.e3;
 
 public class prime_less_100 {
     public static void main(String[] args) {

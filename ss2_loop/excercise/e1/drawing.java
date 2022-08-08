@@ -1,4 +1,4 @@
-package _2_loop.excercise.e1;
+package ss2_loop.excercise.e1;
 
 import java.util.Scanner;
 
@@ -102,3 +102,4 @@ public class drawing {
         }
     }
 }
+
