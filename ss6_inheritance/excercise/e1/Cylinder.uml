@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ss6_inheritance.excercise.e1.Cylinder</OriginalElement>
+  <nodes>
+    <node x="0.0" y="254.0">ss6_inheritance.excercise.e1.Cylinder</node>
+    <node x="28.5" y="0.0">ss6_inheritance.excercise.e1.Circle</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ss6_inheritance.excercise.e1.Cylinder" target="ss6_inheritance.excercise.e1.Circle">
+      <point x="0.0" y="-101.0" />
+      <point x="0.0" y="102.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="56.0" y="137.5" />
+  <SelectedNodes>
+    <node>ss6_inheritance.excercise.e1.Cylinder</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
