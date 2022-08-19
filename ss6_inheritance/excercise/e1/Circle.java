@@ -1,8 +1,8 @@
 package ss6_inheritance.excercise.e1;
 
 public class Circle {
-    public double radius =1.0;
-    public String color ="red";
+    private double radius =1.0;
+    private String color ="red";
 
     public Circle(double radius, String color) {
         this.radius = radius;

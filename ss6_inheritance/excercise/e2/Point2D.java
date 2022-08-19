@@ -1,8 +1,8 @@
 package ss6_inheritance.excercise.e2;
 
 public class Point2D {
-    public float x = 0.0f;
-    public float y = 0.0f;
+    private float x = 0.0f;
+    private float y = 0.0f;
 
     public Point2D(float x, float y) {
         this.x = x;
