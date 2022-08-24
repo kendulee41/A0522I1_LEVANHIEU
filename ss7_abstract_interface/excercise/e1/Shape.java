@@ -27,7 +27,7 @@ public abstract class Shape {
     public void setFilled(boolean filled) {
         this.filled = filled;
     }
-
+    public abstract double getArea();
     @Override
     public String toString() {
         return "A Shape with color of "
